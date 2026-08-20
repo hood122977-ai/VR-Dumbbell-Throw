@@ -4,3 +4,6 @@ VR 덤벨 던지기 게임입니다. 제한 시간 안에 맵에 숨겨져 있�
 보고서: [가상현실콘텍츠제작_자기평가서(30918 최현수).pdf](https://github.com/user-attachments/files/30306643/_.30918.pdf)
 
 영상: https://youtu.be/oB-ogajLGIw?si=Cpq2j4oONVTbc3c7# VR-Dumbbell-Throw
+
+에셋은 용량 문제로 Releases에 zip로 따로 에셋 폴더가 있습니다.
+
