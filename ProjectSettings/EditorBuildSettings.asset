@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GAME SCENE/Start Scene.unity
+    guid: 7df3de4bd8010cb4fbf546fbeb511d8d
+  - enabled: 1
+    path: Assets/Scenes/GAME SCENE/Game Scene.unity
+    guid: 2027a3109aab0ef42af2917757c82062
+  - enabled: 1
+    path: Assets/Scenes/GAME SCENE/yeogho Scene.unity
+    guid: 25f40414f1692b3438835159145ab61e
+  - enabled: 1
+    path: Assets/Scenes/GAME SCENE/mulgeon Scene.unity
+    guid: f2cd792b3aa8cd64b8076a8976c53ab1
+  - enabled: 1
+    path: Assets/Scenes/GAME SCENE/sagyeog Scene.unity
+    guid: dc87596baa9190e46b0b69238ef0fca0
+  - enabled: 1
+    path: Assets/Scenes/GAME SCENE/racing Scene.unity
+    guid: 05bb10c033939554c9617bb6131c994b
+  - enabled: 1
+    path: Assets/Scenes/GAME SCENE/END Scene.unity
+    guid: b394a657bb89f0b48a49baf033b200be
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 985fdffee33a5944396199c6b7145dd4, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 908d62378b8205449861e5838a18a596, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4b3de149e50ea0c4f8ad04c79b9f12ec, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b716680a41c7a094fa3b7fb9a8024a67, type: 2}
+  m_UseUCBPForAssetBundles: 0
